@@ -19,7 +19,7 @@
 
 https://github.com/LakshaySharma10/Nexia/assets/140998848/b5a6820d-2a9a-4225-b184-611fea95ebd2
     
-<p>For more details, visit the project repository <a href="https://github.com/LakshaySharma10/Nexia">here</a>.</p>
+
 
 
 

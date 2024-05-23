@@ -9,7 +9,7 @@
     </ul>
     
 <h2>Usage</h2>
-    <p>To use Nexia, simply visit the deployed website or integrate it into your own project by following the instructions provided in the repository.</p>
+    <p>To use Nexia, simply visit the deployed website https://nexia-tech-chatbot.vercel.app/.</p>
     
 <h2>Preview</h2>
         

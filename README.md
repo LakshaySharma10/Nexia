@@ -11,7 +11,13 @@
     <p>To use Nexia, simply visit the deployed website or integrate it into your own project by following the instructions provided in the repository.</p>
     
 <h2>Preview</h2>
-    
+
+
+
+![Nexia](https://github.com/LakshaySharma10/Nexia/assets/140998848/0c3355e6-defc-438a-b066-c0a206f7e507)
+
+https://github.com/LakshaySharma10/Nexia/assets/140998848/b5a6820d-2a9a-4225-b184-611fea95ebd2
+
     
 <h2>Contributing</h2>
     <p>Contributions to Nexia are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.</p>
